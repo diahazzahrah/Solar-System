@@ -2,7 +2,7 @@
 C++ programming language and OpenGL
 
 
-# Install 
+# Install Library
 - glut
 - glext 
 - glew 

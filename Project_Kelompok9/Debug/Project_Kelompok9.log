@@ -1,0 +1,7 @@
+﻿  Project_Kelompok9.vcxproj -> C:\Users\User\source\repos\Project_Kelompok9\Debug\Project_Kelompok9.exe
+  C:\Users\User\source\repos\Project_Kelompok9\Dependencies\freeglut\bin\Win32\freeglut.dllC:\Users\User\source\repos\Project_Kelompok9\Debug\* 
+  The filename, directory name, or volume label syntax is incorrect.
+          0 file(s) copied.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(156,5): error MSB3073: The command "copy "C:\Users\User\source\repos\Project_Kelompok9\Dependencies\freeglut\bin\Win32\freeglut.dll""C:\Users\User\source\repos\Project_Kelompok9\Debug\"
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(156,5): error MSB3073: 
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(156,5): error MSB3073: :VCEnd" exited with code 1.
